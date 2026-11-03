@@ -98,7 +98,7 @@ ax.set_ylim(0, None)                     # set bottom of y-axis to 0
 
 ax.set_xlabel('Hour')
 ax.set_ylabel('Count (East + West)')
-ax.set_title('Counts of cyclists on Fremont Bridge Sidewalks\nsouth of N 34th St' \
+ax.set_title('Counts of cyclists on Fremont Bridge Sidewalks\nsouth of N 34th St ' \
              'in 2016, grouped by hour of day')
 plt.suptitle('') # df boxplot default is an auto-generated suptitle, remove this
 
