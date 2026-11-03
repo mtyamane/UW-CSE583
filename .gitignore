@@ -223,13 +223,6 @@ __marimo__/
 # Ignore the entire .vscode/ log and cache directory
 .vscode/*
 
-# Exceptions: Allow sharing team-recommended settings and tools
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-
 # Ignore local workspace files and compiled extensions
 *.code-workspace
 *.vsix
