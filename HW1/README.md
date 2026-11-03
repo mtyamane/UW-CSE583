@@ -8,7 +8,7 @@ The end product for this assignment was this figure:
 
 ### 8. Describe your process for doing this homework. (If you used an AI assist, please tell us so here. It will not affect your grade as long as you tell us.) Answer this question by editing the README.md file. (1pt)
 
-I built up the assignment in VSCode and referenced multiple sites for documentation of the various pandas and matplotlib functions, mainly for argument specification. I was pretty familiar with pandas prior to this assignment, so I didn't use AI for this one.
+I built up the assignment in an IPython notebook using VSCode and referred to multiple sites (e.g., geeksforgeeeks, stackoverflow) for documentation of various pandas and matplotlib functions (mainly argument specification). I was pretty familiar with pandas prior to this assignment, so I didn't use AI for this one.
 
 ### Bonus
 
