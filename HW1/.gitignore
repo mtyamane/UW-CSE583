@@ -1,1 +1,4 @@
 *.csv
+
+# Ignore the entire .vscode/ log and cache directory
+.vscode/*
