@@ -4,7 +4,7 @@ This homework assignment is a set of pandas and matplotlib exercises using publi
 
 The end product for this assignment was this figure:
 
-![Counts of cyclists on Fremont Bridge Sidewalks](/src/hw1_data_analysis/counts_by_hour.png)
+![Counts of cyclists on Fremont Bridge Sidewalks](/HW1/src/hw1_data_analysis/counts_by_hour.png)
 
 ### 8. Describe your process for doing this homework. (If you used an AI assist, please tell us so here. It will not affect your grade as long as you tell us.) Answer this question by editing the README.md file. (1pt)
 
