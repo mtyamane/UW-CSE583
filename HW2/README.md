@@ -1,6 +1,7 @@
 # HW2: Learn Git Branching
 
 In this assignment, we are learning about git branching through an in-browser game located here: <https://learngitbranching.js.org>
+![Website](0_Site.png)
 
 
 ## Complete the Introduction Sequence. Add a screenshot showing that you've completed this sequence. (2pt)
