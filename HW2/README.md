@@ -5,7 +5,7 @@ In this assignment, we are learning about git branching through an in-browser ga
 
 ## Complete the Introduction Sequence. Add a screenshot showing that you've completed this sequence. (2pt)
 
-![Completed Intro](1_intro.png)
+![Completed Intro](1_Intro.png)
 
 ## Complete the Ramping Up Sequence. Add a screenshot showing that you've completed this sequence. (2pt)
 ![Completed Ramping Up](2_Ramping.png)
